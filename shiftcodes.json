@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-25T12:51+00:00",
+  "generated": "2026-10-25T12:58+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -13,11 +13,6 @@
     "error": null
    },
    {
-    "url": "https://mobalytics.gg/borderlands-4/shift-codes-borderlands-4",
-    "found": 0,
-    "error": "HTTP 403"
-   },
-   {
     "url": "https://beebom.com/borderlands-4-shift-codes/",
     "found": 59,
     "error": null
@@ -28,44 +23,9 @@
     "error": null
    },
    {
-    "url": "https://www.gamestar.de/artikel/borderlands-4-shift-codes-goldene-schluessel,3439325.html",
-    "found": 0,
-    "error": "HTTP 403"
-   },
-   {
-    "url": "https://www.gamepro.de/artikel/borderlands-4-alle-shift-codes-goldene-schluessel,3439314.html",
-    "found": 0,
-    "error": "HTTP 403"
-   },
-   {
     "url": "https://space4games.com/en/games-en/borderlands-4-all-shift-codes/",
     "found": 17,
     "error": null
-   },
-   {
-    "url": "https://rosenberryrooms.com/borderlands-4-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
-   },
-   {
-    "url": "https://www.esports.net/wiki/guides/borderlands-4-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
-   },
-   {
-    "url": "https://www.polygon.com/borderlands-4-shift-codes-golden-keys/",
-    "found": 0,
-    "error": "HTTP 404"
-   },
-   {
-    "url": "https://www.ign.com/wikis/borderlands-4/SHiFT_Codes",
-    "found": 0,
-    "error": "HTTP 404"
-   },
-   {
-    "url": "https://www.rockpapershotgun.com/borderlands-4-shift-codes",
-    "found": 0,
-    "error": "HTTP 404"
    },
    {
     "url": "https://www.pcgamer.com/games/fps/borderlands-4-shift-codes/",
@@ -73,14 +33,84 @@
     "error": null
    },
    {
-    "url": "https://www.dexerto.com/borderlands/borderlands-4-shift-codes/",
-    "found": 0,
-    "error": "HTTP 404"
+    "url": "https://www.pcgamesn.com/borderlands-4/shift-codes",
+    "found": 84,
+    "error": null
    },
    {
-    "url": "https://gamerant.com/borderlands-4-shift-codes/",
+    "url": "https://www.pushsquare.com/guides/borderlands-4-shift-codes-to-redeem-now-september-2025",
+    "found": 3,
+    "error": null
+   },
+   {
+    "url": "https://www.sportskeeda.com/mmo/borderlands-4-shift-codes",
     "found": 0,
-    "error": "HTTP 404"
+    "error": "HTTP 403"
+   },
+   {
+    "url": "https://deltiasgaming.com/?p=344151",
+    "found": 0,
+    "error": "HTTP 403"
+   },
+   {
+    "url": "https://esports.gg/guides/gaming/all-shift-codes-in-borderlands-4-september-2025",
+    "found": 0,
+    "error": "HTTP 403"
+   },
+   {
+    "url": "https://www.dexerto.fr/jeux-video/codes-shift-borderlands-4-1622750/",
+    "found": 25,
+    "error": null
+   },
+   {
+    "url": "https://www.weareplaystation.fr/communautes/borderlands-4/actualites-communaute/borderlands-4-tous-les-codes-shift-actifs-pour-obtenir-des-cles-dorees-et-recompenses-gratuites",
+    "found": 0,
+    "error": null
+   },
+   {
+    "url": "https://gamespace.com/all-articles/news/borderlands-4-shift-codes-all-active-codes/",
+    "found": 23,
+    "error": null
+   },
+   {
+    "url": "https://www.altchar.com/game-news/borderlands-4-all-shift-codes-july-2026-aP8mW4B35PQR",
+    "found": 17,
+    "error": null
+   },
+   {
+    "url": "https://gametyrant.com/news/all-shift-codes-in-borderlands-4-and-how-to-redeem-them",
+    "found": 3,
+    "error": null
+   },
+   {
+    "url": "https://gurugamer.com/pc-console/list-of-all-shift-codes-in-borderland-4-september-2025-25567",
+    "found": 8,
+    "error": null
+   },
+   {
+    "url": "https://thegamehaus.com/gaming/updated-borderlands-4-shift-codes-2025/2025/09/14/",
+    "found": 18,
+    "error": null
+   },
+   {
+    "url": "https://nextbite.io/en/reviews/borderlands-4-shift-codes-update-2026/",
+    "found": 0,
+    "error": null
+   },
+   {
+    "url": "https://www.giga.de/games/borderlands-4-shift-codes-fuer-goldene-schluessel-aktuelle-liste-oktober-2026--01K4SKJZFTVTCGCZE7T6E82V5Q",
+    "found": 26,
+    "error": null
+   },
+   {
+    "url": "https://space4games.com/de/games/borderlands-4-shift-codes/",
+    "found": 20,
+    "error": null
+   },
+   {
+    "url": "https://en.generacionxbox.com/borderlands-4-get-3-new-golden-keys-free-with-these-new-shift-codes/",
+    "found": 0,
+    "error": "HTTP 500"
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-3-golden-keys/",
@@ -96,11 +126,6 @@
     "url": "https://www.pcgamer.com/borderlands-3-shift-codes/",
     "found": 23,
     "error": null
-   },
-   {
-    "url": "https://www.esports.net/wiki/guides/borderlands-3-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
    },
    {
     "url": "https://fiercepc.co.uk/blog/games/borderlands-3-shift-codes",
@@ -148,9 +173,478 @@
     "error": null
    }
   ],
-  "count": 428
+  "count": 469
  },
  "codes": [
+  {
+   "code": "WZK3B-SHTHF-JZ59K-SBT3B-TWHXT",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "3SR3J-CS63T-CFB3K-J3JTT-RZ5JR",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com",
+    "gurugamer.com",
+    "thegamehaus.com"
+   ]
+  },
+  {
+   "code": "BH6TJ-Z993B-5RJBK-JT3B3-RXT3Z",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com"
+   ]
+  },
+  {
+   "code": "THR3J-XTKC3-WFBTW-3TT3T-W6B5R",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "TZRBJ-3KTWT-KX3BC-TT3TB-B9ZSK",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "JZFTT-SSTC3-5FTT5-J3TB3-JSB9S",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "T9F33-TXW9J-5RTT5-3JTJJ-RR6R6",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "B9XT3-HX6TT-W6BBW-TTJT3-JTFKX",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com",
+    "altchar.com",
+    "gurugamer.com"
+   ]
+  },
+  {
+   "code": "BZRB3-W65HT-CFJBC-B3JT3-K36XR",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "J9FBT-B55KT-56TJW-3TT3B-JZBSW",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "BHXBB-W6BCB-WXJ3W-B3BTT-FTW3Z",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "JHFJB-6KCHJ-5XBB5-JBTBJ-6FRRJ",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "J9RT3-RBJ5T-WRTBK-JB3J3-5TB3R",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com"
+   ]
+  },
+  {
+   "code": "JHXTB-RFWH3-C6335-TBBJB-JWWBH",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "T963J-TRBKB-56JBW-3BJBJ-ZZ3JR",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "3ZRBB-WCWZJ-5RJ3W-JJB33-JWBHS",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "B9RJJ-B5W9J-5XTJ5-J333J-653CZ",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "WHKJT-CBKHF-JSCHC-93B3J-5HHBJ",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "J9FB3-9XTW3-56JJK-TBBTJ-TF9X3",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "3SRBB-X9RBJ-CRTBW-3BBB3-KJFW6",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gurugamer.com",
+    "thegamehaus.com"
+   ]
+  },
+  {
+   "code": "TH6BJ-WJTC3-W6B3C-3TTBT-5HTTH",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com"
+   ]
+  },
+  {
+   "code": "3H6BB-ZBKCJ-CFJT5-TBJJT-BFJHB",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "5ZWJ3-FKWS6-3959C-Z3TB3-W95J5",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "39RTT-3ZR3T-5FJBK-3J3J3-C5CRT",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com",
+    "altchar.com",
+    "gurugamer.com"
+   ]
+  },
+  {
+   "code": "TZ6TT-FKBKB-W6T35-BTTB3-636SR",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "3S6TT-RSHJ3-WFJ3K-BBJB3-W5ZKS",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com"
+   ]
+  },
+  {
+   "code": "CSK3T-FBW9F-TZCS5-S3JBJ-R5JW9",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "JZX33-ZKWST-5XT3W-JTBJ3-66BXB",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "WH533-JXC9R-BSKSW-Z3BJB-RHJ55",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "giga.de"
+   ]
+  },
+  {
+   "code": "3HXTT-JBJCT-CR33W-JJTJJ-BCR5W",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "gamespace.com"
+   ]
+  },
+  {
+   "code": "CHCBB-KWWH6-BSKZC-SJ3TT-39S5Z",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com",
+    "giga.de"
+   ]
+  },
+  {
+   "code": "3H6JT-3ZJZ3-KXBJK-TB3TB-J33CX",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "T9XTB-93BC3-56T35-TBBJT-KF5TW",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "JH63B-S5TK3-KFJJC-BBB3T-5KR63",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "BZX3B-6RTWB-5FTBW-TBT3B-3XZCT",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "5S5JJ-TCKZR-3ZC9C-HJT3B-6ZJXT",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "3HR33-KWBKT-KRJ3W-JBBTJ-FSTC3",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "W9CTT-ZBKZF-THK9K-HB3J3-WF5FF",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "pcgamesn.com"
+   ]
+  },
+  {
+   "code": "JZFJJ-6RHKX-TZ3JZ-XBB3J-93KTX",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "dexerto.fr"
+   ]
+  },
+  {
+   "code": "3SRBB-X9RBJ-CRTBW-3BBB3-KFJW6",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "gamespace.com"
+   ]
+  },
+  {
+   "code": "BJRBJ-ZWHT3-W6JBK-BT3BB-CW3ZK",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T12:58+00:00",
+   "sources": [
+    "gamespace.com"
+   ]
+  },
   {
    "code": "CS5BT-STF9R-B9KSW-ZBJ33-BZHZF",
    "game": "Borderlands 4",
@@ -174,7 +668,8 @@
    "sources": [
     "communauté (mentalmars)",
     "mentalmars.com",
-    "gamesradar.com"
+    "gamesradar.com",
+    "giga.de"
    ]
   },
   {
@@ -214,7 +709,8 @@
     "communauté (mentalmars)",
     "mentalmars.com",
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "dexerto.fr"
    ]
   },
   {
@@ -228,7 +724,8 @@
     "communauté (mentalmars)",
     "mentalmars.com",
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "giga.de"
    ]
   },
   {
@@ -242,7 +739,9 @@
     "communauté (mentalmars)",
     "mentalmars.com",
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "dexerto.fr",
+    "giga.de"
    ]
   },
   {
@@ -256,7 +755,9 @@
     "communauté (mentalmars)",
     "mentalmars.com",
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "dexerto.fr",
+    "giga.de"
    ]
   },
   {
@@ -268,7 +769,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "communauté (mentalmars)",
-    "mentalmars.com"
+    "mentalmars.com",
+    "dexerto.fr"
    ]
   },
   {
@@ -363,7 +865,8 @@
     "communauté (mentalmars)",
     "mentalmars.com",
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "dexerto.fr"
    ]
   },
   {
@@ -379,7 +882,9 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "dexerto.fr",
+    "giga.de"
    ]
   },
   {
@@ -394,7 +899,9 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr"
    ]
   },
   {
@@ -409,7 +916,9 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr"
    ]
   },
   {
@@ -424,7 +933,9 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr"
    ]
   },
   {
@@ -439,7 +950,10 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "gamespace.com"
    ]
   },
   {
@@ -454,7 +968,8 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "giga.de"
    ]
   },
   {
@@ -469,7 +984,10 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "dexerto.fr",
+    "giga.de",
+    "space4games.com"
    ]
   },
   {
@@ -485,7 +1003,10 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "giga.de"
    ]
   },
   {
@@ -501,7 +1022,10 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "giga.de"
    ]
   },
   {
@@ -517,7 +1041,10 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -533,7 +1060,11 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -549,7 +1080,11 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -564,7 +1099,11 @@
     "mentalmars.com",
     "gamesradar.com",
     "beebom.com",
-    "space4games.com"
+    "space4games.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -580,7 +1119,10 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "giga.de"
    ]
   },
   {
@@ -596,7 +1138,8 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "giga.de"
    ]
   },
   {
@@ -612,7 +1155,11 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -628,7 +1175,11 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -644,7 +1195,11 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -660,7 +1215,12 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "gamespace.com",
+    "altchar.com",
+    "giga.de"
    ]
   },
   {
@@ -676,7 +1236,13 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "dexerto.fr",
+    "gamespace.com",
+    "altchar.com",
+    "gurugamer.com",
+    "giga.de"
    ]
   },
   {
@@ -692,7 +1258,16 @@
     "gamesradar.com",
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "pushsquare.com",
+    "dexerto.fr",
+    "gamespace.com",
+    "altchar.com",
+    "gametyrant.com",
+    "gurugamer.com",
+    "thegamehaus.com",
+    "giga.de"
    ]
   },
   {
@@ -3574,7 +4149,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3625,7 +4201,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3637,7 +4214,9 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com",
+    "giga.de"
    ]
   },
   {
@@ -3675,7 +4254,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3712,7 +4292,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3724,7 +4305,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3750,7 +4332,9 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com",
+    "giga.de"
    ]
   },
   {
@@ -3801,7 +4385,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3826,7 +4411,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3890,7 +4476,8 @@
    "sources": [
     "beebom.com",
     "space4games.com",
-    "pcgamer.com"
+    "pcgamer.com",
+    "giga.de"
    ]
   },
   {
@@ -3912,7 +4499,11 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "altchar.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -3923,7 +4514,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3934,7 +4526,10 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -3945,7 +4540,9 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -3956,7 +4553,11 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "altchar.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -3967,7 +4568,15 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "pushsquare.com",
+    "gamespace.com",
+    "altchar.com",
+    "gametyrant.com",
+    "gurugamer.com",
+    "thegamehaus.com",
+    "space4games.com"
    ]
   },
   {
@@ -3978,7 +4587,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -3989,7 +4599,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -4000,7 +4611,10 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4011,7 +4625,9 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4022,7 +4638,9 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4033,7 +4651,10 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4044,7 +4665,9 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4055,7 +4678,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -4066,7 +4690,10 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "altchar.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4077,7 +4704,10 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4088,7 +4718,9 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4099,7 +4731,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com"
    ]
   },
   {
@@ -4110,7 +4743,10 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "gamespace.com",
+    "thegamehaus.com"
    ]
   },
   {
@@ -4121,7 +4757,15 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com",
+    "pushsquare.com",
+    "gamespace.com",
+    "altchar.com",
+    "gametyrant.com",
+    "gurugamer.com",
+    "thegamehaus.com",
+    "space4games.com"
    ]
   },
   {
@@ -4132,7 +4776,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "pcgamer.com"
+    "pcgamer.com",
+    "pcgamesn.com"
    ]
   },
   {
