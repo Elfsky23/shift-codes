@@ -1,0 +1,46 @@
+# Sites où chercher des codes SHiFT.
+# Une adresse par ligne, éventuellement suivie de " | Nom du jeu".
+# Ajoute tes propres sites ici : le collecteur prend tout ce qui ressemble
+# à un code SHiFT (XXXXX-XXXXX-XXXXX-XXXXX-XXXXX) sur chaque page.
+# Les lignes qui commencent par # sont ignorées.
+
+# --- Borderlands 4
+https://mentalmars.com/game-news/borderlands-4-shift-codes/ | Borderlands 4
+https://www.gamesradar.com/games/borderlands/borderlands-4-shift-codes-golden-keys/ | Borderlands 4
+https://mobalytics.gg/borderlands-4/shift-codes-borderlands-4 | Borderlands 4
+https://beebom.com/borderlands-4-shift-codes/ | Borderlands 4
+https://www.lockercodes.io/borderlands/shift-codes | Borderlands 4
+https://www.gamestar.de/artikel/borderlands-4-shift-codes-goldene-schluessel,3439325.html | Borderlands 4
+https://www.gamepro.de/artikel/borderlands-4-alle-shift-codes-goldene-schluessel,3439314.html | Borderlands 4
+https://space4games.com/en/games-en/borderlands-4-all-shift-codes/ | Borderlands 4
+https://rosenberryrooms.com/borderlands-4-shift-codes | Borderlands 4
+https://www.esports.net/wiki/guides/borderlands-4-shift-codes | Borderlands 4
+https://www.polygon.com/borderlands-4-shift-codes-golden-keys/ | Borderlands 4
+https://www.ign.com/wikis/borderlands-4/SHiFT_Codes | Borderlands 4
+https://www.rockpapershotgun.com/borderlands-4-shift-codes | Borderlands 4
+https://www.pcgamer.com/games/fps/borderlands-4-shift-codes/ | Borderlands 4
+https://www.dexerto.com/borderlands/borderlands-4-shift-codes/ | Borderlands 4
+https://gamerant.com/borderlands-4-shift-codes/ | Borderlands 4
+
+# --- Borderlands 3
+https://mentalmars.com/game-news/borderlands-3-golden-keys/ | Borderlands 3
+https://www.rpgsite.net/feature/8991-borderlands-3-golden-keys-shift-codes-and-vip-codes-list | Borderlands 3
+https://www.pcgamer.com/borderlands-3-shift-codes/ | Borderlands 3
+https://www.esports.net/wiki/guides/borderlands-3-shift-codes | Borderlands 3
+https://fiercepc.co.uk/blog/games/borderlands-3-shift-codes | Borderlands 3
+https://gamewith.net/borderlands-3/article/show/11090 | Borderlands 3
+
+# --- Borderlands 2
+https://mentalmars.com/game-news/borderlands-2-golden-keys/ | Borderlands 2
+https://www.pcgamer.com/shift-codes-borderlands-2 | Borderlands 2
+https://fiercepc.co.uk/blog/games/the-borderlands-2-shift-codes | Borderlands 2
+https://powerupgaming.co.uk/2023/11/13/borderlands-2-shift-codes/ | Borderlands 2
+
+# --- Borderlands: The Pre-Sequel
+https://mentalmars.com/game-news/bltps-golden-keys/ | Borderlands The Pre-Sequel
+
+# --- Borderlands (GOTY)
+https://mentalmars.com/game-news/borderlands-golden-keys/ | Borderlands: Game of the Year Edition
+
+# --- Tiny Tina's Wonderlands
+https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/ | Tiny Tina's Wonderlands
