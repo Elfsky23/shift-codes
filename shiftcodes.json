@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-25T16:30+00:00",
+  "generated": "2026-10-25T20:56+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -159,7 +159,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/bltps-golden-keys/",
-    "found": 155,
+    "found": 158,
     "error": null
    },
    {
@@ -173,9 +173,42 @@
     "error": null
    }
   ],
-  "count": 469
+  "count": 472
  },
  "codes": [
+  {
+   "code": "CKWJT-HZK39-CKXJX-CR3JB-3WSZB",
+   "game": "Borderlands The Pre-Sequel",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T20:56+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "W5KBJ-H9FX3-TBTJ3-T3J3T-RRCTS",
+   "game": "Borderlands The Pre-Sequel",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T20:56+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "KC5JB-JT6RW-96B5J-SBWBT-CCJ9F",
+   "game": "Borderlands The Pre-Sequel",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-10-25T20:56+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
   {
    "code": "WZK3B-SHTHF-JZ59K-SBT3B-TWHXT",
    "game": "Borderlands 4",
