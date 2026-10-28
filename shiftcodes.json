@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-27T22:21+00:00",
+  "generated": "2026-10-28T05:52+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -89,8 +89,8 @@
    },
    {
     "url": "https://thegamehaus.com/gaming/updated-borderlands-4-shift-codes-2025/2025/09/14/",
-    "found": 18,
-    "error": null
+    "found": 0,
+    "error": "HTTP 403"
    },
    {
     "url": "https://nextbite.io/en/reviews/borderlands-4-shift-codes-update-2026/",
