@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-30T18:04+00:00",
+  "generated": "2026-10-30T22:26+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -69,8 +69,8 @@
    },
    {
     "url": "https://gamespace.com/all-articles/news/borderlands-4-shift-codes-all-active-codes/",
-    "found": 23,
-    "error": null
+    "found": 0,
+    "error": "HTTP 403"
    },
    {
     "url": "https://www.altchar.com/game-news/borderlands-4-all-shift-codes-july-2026-aP8mW4B35PQR",
