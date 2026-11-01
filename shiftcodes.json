@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-11-01T06:18+00:00",
+  "generated": "2026-11-01T16:06+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 37,
+    "found": 38,
     "error": null
    },
    {
@@ -89,8 +89,8 @@
    },
    {
     "url": "https://thegamehaus.com/gaming/updated-borderlands-4-shift-codes-2025/2025/09/14/",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 18,
+    "error": null
    },
    {
     "url": "https://nextbite.io/en/reviews/borderlands-4-shift-codes-update-2026/",
@@ -179,12 +179,14 @@
   {
    "code": "J9R33-CCTTC-WRBJ5-TJJB3-9BT5T",
    "game": "Borderlands 4",
-   "reward": "",
-   "expires": "",
+   "reward": "3 Golden Keys",
+   "expires": "Nov 3, 2026",
    "expired": false,
    "first_seen": "2026-11-01T06:18+00:00",
    "sources": [
-    "lockercodes.io"
+    "lockercodes.io",
+    "communauté (mentalmars)",
+    "mentalmars.com"
    ]
   },
   {
