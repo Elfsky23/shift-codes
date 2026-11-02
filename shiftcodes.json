@@ -1,15 +1,15 @@
 {
  "meta": {
-  "generated": "2026-11-02T06:19+00:00",
+  "generated": "2026-11-02T19:33+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 38,
+    "found": 39,
     "error": null
    },
    {
     "url": "https://www.gamesradar.com/games/borderlands/borderlands-4-shift-codes-golden-keys/",
-    "found": 64,
+    "found": 65,
     "error": null
    },
    {
@@ -59,7 +59,7 @@
    },
    {
     "url": "https://www.dexerto.fr/jeux-video/codes-shift-borderlands-4-1622750/",
-    "found": 25,
+    "found": 24,
     "error": null
    },
    {
@@ -99,7 +99,7 @@
    },
    {
     "url": "https://www.giga.de/games/borderlands-4-shift-codes-fuer-goldene-schluessel-aktuelle-liste-oktober-2026--01K4SKJZFTVTCGCZE7T6E82V5Q",
-    "found": 27,
+    "found": 26,
     "error": null
    },
    {
@@ -159,7 +159,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/bltps-golden-keys/",
-    "found": 155,
+    "found": 158,
     "error": null
    },
    {
@@ -173,9 +173,20 @@
     "error": null
    }
   ],
-  "count": 473
+  "count": 474
  },
  "codes": [
+  {
+   "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-02T19:33+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
   {
    "code": "J9R33-CCTTC-WRBJ5-TJJB3-9BT5T",
    "game": "Borderlands 4",
@@ -186,7 +197,9 @@
    "sources": [
     "lockercodes.io",
     "communauté (mentalmars)",
-    "mentalmars.com"
+    "mentalmars.com",
+    "gamesradar.com",
+    "giga.de"
    ]
   },
   {
@@ -704,7 +717,8 @@
     "lockercodes.io",
     "giga.de",
     "gamesradar.com",
-    "beebom.com"
+    "beebom.com",
+    "dexerto.fr"
    ]
   },
   {
