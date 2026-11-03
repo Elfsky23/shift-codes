@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-11-03T10:59+00:00",
+  "generated": "2026-11-03T19:33+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 39,
+    "found": 43,
     "error": null
    },
    {
@@ -99,7 +99,7 @@
    },
    {
     "url": "https://www.giga.de/games/borderlands-4-shift-codes-fuer-goldene-schluessel-aktuelle-liste-oktober-2026--01K4SKJZFTVTCGCZE7T6E82V5Q",
-    "found": 26,
+    "found": 27,
     "error": null
    },
    {
@@ -188,7 +188,8 @@
     "communauté (mentalmars)",
     "gamesradar.com",
     "beebom.com",
-    "lockercodes.io"
+    "lockercodes.io",
+    "giga.de"
    ]
   },
   {
@@ -247,7 +248,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:58+00:00",
    "sources": [
-    "pcgamesn.com"
+    "pcgamesn.com",
+    "mentalmars.com"
    ]
   },
   {
@@ -4376,7 +4378,8 @@
    "sources": [
     "gamesradar.com",
     "beebom.com",
-    "pcgamesn.com"
+    "pcgamesn.com",
+    "mentalmars.com"
    ]
   },
   {
@@ -4710,7 +4713,8 @@
    "sources": [
     "pcgamer.com",
     "pcgamesn.com",
-    "thegamehaus.com"
+    "thegamehaus.com",
+    "mentalmars.com"
    ]
   },
   {
@@ -4737,7 +4741,8 @@
    "sources": [
     "pcgamer.com",
     "pcgamesn.com",
-    "thegamehaus.com"
+    "thegamehaus.com",
+    "mentalmars.com"
    ]
   },
   {
