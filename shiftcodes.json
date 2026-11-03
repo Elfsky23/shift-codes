@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-11-02T19:33+00:00",
+  "generated": "2026-11-03T02:56+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -114,7 +114,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-3-golden-keys/",
-    "found": 84,
+    "found": 85,
     "error": null
    },
    {
@@ -139,7 +139,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-2-golden-keys/",
-    "found": 149,
+    "found": 150,
     "error": null
    },
    {
@@ -159,12 +159,12 @@
    },
    {
     "url": "https://mentalmars.com/game-news/bltps-golden-keys/",
-    "found": 158,
+    "found": 156,
     "error": null
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-golden-keys/",
-    "found": 74,
+    "found": 75,
     "error": null
    },
    {
@@ -179,12 +179,13 @@
   {
    "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
    "game": "Borderlands 4",
-   "reward": "",
-   "expires": "",
+   "reward": "20 Golden Keys",
+   "expires": "Nov 16, 2026",
    "expired": false,
    "first_seen": "2026-11-02T19:33+00:00",
    "sources": [
-    "mentalmars.com"
+    "mentalmars.com",
+    "communauté (mentalmars)"
    ]
   },
   {
