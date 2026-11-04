@@ -1,20 +1,20 @@
 {
  "meta": {
-  "generated": "2026-11-04T01:26+00:00",
+  "generated": "2026-11-04T19:50+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 43,
+    "found": 39,
     "error": null
    },
    {
     "url": "https://www.gamesradar.com/games/borderlands/borderlands-4-shift-codes-golden-keys/",
-    "found": 66,
+    "found": 68,
     "error": null
    },
    {
     "url": "https://beebom.com/borderlands-4-shift-codes/",
-    "found": 63,
+    "found": 64,
     "error": null
    },
    {
@@ -173,9 +173,33 @@
     "error": null
    }
   ],
-  "count": 474
+  "count": 476
  },
  "codes": [
+  {
+   "code": "S6X33-CT9S3-TJBTB-BTTBB-H533C",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-04T19:50+00:00",
+   "sources": [
+    "gamesradar.com",
+    "beebom.com",
+    "lockercodes.io"
+   ]
+  },
+  {
+   "code": "5HWB3-5KRS6-JZ595-9J3JT-B5SCW",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-04T19:50+00:00",
+   "sources": [
+    "gamesradar.com"
+   ]
+  },
   {
    "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
    "game": "Borderlands 4",
