@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-11-07T00:58+00:00",
+  "generated": "2026-11-07T10:22+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -114,7 +114,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-3-golden-keys/",
-    "found": 85,
+    "found": 95,
     "error": null
    },
    {
@@ -173,9 +173,108 @@
     "error": null
    }
   ],
-  "count": 476
+  "count": 485
  },
  "codes": [
+  {
+   "code": "WHWT3-JH39H-W6WF9-FJTBB-ZCRCW",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WK5TB-HRHCF-6S363-JBB3J-5HT6K",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "CJ5BT-6XRSH-X359C-STK33-BZHW5",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "C9K3B-6KRX9-KXCR9-6T3TT-5BRBZ",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "KBWBJ-W5HH5-RZXF9-KXB3T-JRBRJ",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "W9CBB-593TJ-XRWF9-RBJ3T-TK6BT",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "CSWJT-FS9H9-W6KFS-R3TTT-RFCHR",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WSCBB-BFCZZ-WX56Z-RJJBJ-S3WCW",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WSKBJ-X99R9-WFCXH-XBB3B-3ZRZZ",
+   "game": "Borderlands 3",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-07T10:22+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
   {
    "code": "S6X33-CT9S3-TJBTB-BTTBB-H533C",
    "game": "Borderlands 4",
@@ -5050,7 +5149,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "gamewith.net"
+    "gamewith.net",
+    "mentalmars.com"
    ]
   },
   {
