@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-11-09T00:58+00:00",
+  "generated": "2026-11-09T11:44+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -95,7 +95,7 @@
    {
     "url": "https://nextbite.io/en/reviews/borderlands-4-shift-codes-update-2026/",
     "found": 0,
-    "error": null
+    "error": "HTTP 404"
    },
    {
     "url": "https://www.giga.de/games/borderlands-4-shift-codes-fuer-goldene-schluessel-aktuelle-liste-oktober-2026--01K4SKJZFTVTCGCZE7T6E82V5Q",
@@ -110,7 +110,7 @@
    {
     "url": "https://en.generacionxbox.com/borderlands-4-get-3-new-golden-keys-free-with-these-new-shift-codes/",
     "found": 0,
-    "error": "HTTP 520"
+    "error": "HTTP 500"
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-3-golden-keys/",
