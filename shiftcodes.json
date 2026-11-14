@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-11-14T10:36+00:00",
+  "generated": "2026-11-14T18:13+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -19,8 +19,8 @@
    },
    {
     "url": "https://www.lockercodes.io/borderlands/shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 2,
+    "error": null
    },
    {
     "url": "https://space4games.com/en/games-en/borderlands-4-all-shift-codes/",
@@ -44,13 +44,13 @@
    },
    {
     "url": "https://www.sportskeeda.com/mmo/borderlands-4-shift-codes",
-    "found": 51,
-    "error": null
+    "found": 0,
+    "error": "HTTP 403"
    },
    {
     "url": "https://deltiasgaming.com/?p=344151",
-    "found": 24,
-    "error": null
+    "found": 0,
+    "error": "HTTP 403"
    },
    {
     "url": "https://esports.gg/guides/gaming/all-shift-codes-in-borderlands-4-september-2025",
@@ -129,8 +129,8 @@
    },
    {
     "url": "https://fiercepc.co.uk/blog/games/borderlands-3-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 6,
+    "error": null
    },
    {
     "url": "https://gamewith.net/borderlands-3/article/show/11090",
@@ -149,8 +149,8 @@
    },
    {
     "url": "https://fiercepc.co.uk/blog/games/the-borderlands-2-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 36,
+    "error": null
    },
    {
     "url": "https://powerupgaming.co.uk/2023/11/13/borderlands-2-shift-codes/",
