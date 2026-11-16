@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-11-16T06:42+00:00",
+  "generated": "2026-11-16T19:40+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 40,
+    "found": 41,
     "error": null
    },
    {
@@ -173,9 +173,21 @@
     "error": null
    }
   ],
-  "count": 486
+  "count": 487
  },
  "codes": [
+  {
+   "code": "3S6B3-56Z5W-CFBJC-JTTBJ-ZW3BW",
+   "game": "Borderlands 4",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-16T19:40+00:00",
+   "sources": [
+    "mentalmars.com",
+    "lockercodes.io"
+   ]
+  },
   {
    "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
    "game": "Borderlands 4",
