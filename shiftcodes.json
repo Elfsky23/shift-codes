@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-11-19T11:50+00:00",
+  "generated": "2026-11-19T20:44+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 41,
+    "found": 45,
     "error": null
    },
    {
@@ -44,13 +44,13 @@
    },
    {
     "url": "https://www.sportskeeda.com/mmo/borderlands-4-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 51,
+    "error": null
    },
    {
     "url": "https://deltiasgaming.com/?p=344151",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 24,
+    "error": null
    },
    {
     "url": "https://esports.gg/guides/gaming/all-shift-codes-in-borderlands-4-september-2025",
