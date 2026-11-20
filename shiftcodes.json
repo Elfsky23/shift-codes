@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-11-20T02:23+00:00",
+  "generated": "2026-11-20T11:50+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 45,
+    "found": 41,
     "error": null
    },
    {
@@ -89,8 +89,8 @@
    },
    {
     "url": "https://thegamehaus.com/gaming/updated-borderlands-4-shift-codes-2025/2025/09/14/",
-    "found": 18,
-    "error": null
+    "found": 0,
+    "error": "HTTP 403"
    },
    {
     "url": "https://nextbite.io/en/reviews/borderlands-4-shift-codes-update-2026/",
@@ -129,8 +129,8 @@
    },
    {
     "url": "https://fiercepc.co.uk/blog/games/borderlands-3-shift-codes",
-    "found": 0,
-    "error": "HTTP 503"
+    "found": 6,
+    "error": null
    },
    {
     "url": "https://gamewith.net/borderlands-3/article/show/11090",
@@ -149,8 +149,8 @@
    },
    {
     "url": "https://fiercepc.co.uk/blog/games/the-borderlands-2-shift-codes",
-    "found": 0,
-    "error": "HTTP 503"
+    "found": 36,
+    "error": null
    },
    {
     "url": "https://powerupgaming.co.uk/2023/11/13/borderlands-2-shift-codes/",
@@ -159,7 +159,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/bltps-golden-keys/",
-    "found": 157,
+    "found": 160,
     "error": null
    },
    {
