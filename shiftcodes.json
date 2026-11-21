@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-11-20T20:29+00:00",
+  "generated": "2026-11-21T02:25+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -24,8 +24,8 @@
    },
    {
     "url": "https://space4games.com/en/games-en/borderlands-4-all-shift-codes/",
-    "found": 0,
-    "error": "HTTP 500"
+    "found": 17,
+    "error": null
    },
    {
     "url": "https://www.pcgamer.com/games/fps/borderlands-4-shift-codes/",
@@ -69,8 +69,8 @@
    },
    {
     "url": "https://gamespace.com/all-articles/news/borderlands-4-shift-codes-all-active-codes/",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 23,
+    "error": null
    },
    {
     "url": "https://www.altchar.com/game-news/borderlands-4-all-shift-codes-july-2026-aP8mW4B35PQR",
@@ -104,8 +104,8 @@
    },
    {
     "url": "https://space4games.com/de/games/borderlands-4-shift-codes/",
-    "found": 0,
-    "error": "HTTP 500"
+    "found": 20,
+    "error": null
    },
    {
     "url": "https://en.generacionxbox.com/borderlands-4-get-3-new-golden-keys-free-with-these-new-shift-codes/",
@@ -114,7 +114,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-3-golden-keys/",
-    "found": 96,
+    "found": 86,
     "error": null
    },
    {
@@ -139,7 +139,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-2-golden-keys/",
-    "found": 151,
+    "found": 180,
     "error": null
    },
    {
@@ -173,9 +173,218 @@
     "error": null
    }
   ],
-  "count": 487
+  "count": 506
  },
  "codes": [
+  {
+   "code": "C3KJB-WKTR3-RXJ65-TJ3JB-H6FH9",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WJK33-3C3F3-6F3FK-3BT3J-3CK3S",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "5TK3B-CCHFS-XJ5SK-ZTW3T-S5CS6",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WT5JJ-3HJW9-JJRTZ-J3BJJ-XBKJF",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "5TW33-TTCK5-6Z6FH-KRJT3-WSFKC",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "W3KTJ-FZ9CS-XS6BR-K6JJ3-XCFXT",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "K3K3T-HH36W-69FF9-5F333-CBSZX",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "5TWBT-TF9HS-9J5SK-9B53J-F5KR3",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "KT53B-HZ6KS-9JCSW-9JWB3-WTKB3",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "5JWTJ-JCSSC-6S6TX-5RBTJ-9RZBJ",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "K3K33-SFH5X-WBX5B-BJB33-Z9J3F",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WB5TB-X55HK-SZRRZ-5XB3B-6BB9C",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "5BC3B-KXFZK-BK5C3-HJW3J-T3KBB",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "W3W33-XW5HT-BXBFC-JB333-3RZ93",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WTWBB-ZJ9Z5-69XJ6-KRTBB-ZHBBH",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WTWBJ-HKZ5H-XHFTF-WX3JJ-6HRS6",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WBWJ3-JHKSK-ZHXT6-CRTJT-BW59W",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "KJWTT-5RC95-TB9TR-W63JJ-FHJWS",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
+  {
+   "code": "WBKJT-SSZ5S-6S6B6-5FTTB-X5KSC",
+   "game": "Borderlands 2",
+   "reward": "",
+   "expires": "",
+   "expired": false,
+   "first_seen": "2026-11-21T02:25+00:00",
+   "sources": [
+    "mentalmars.com"
+   ]
+  },
   {
    "code": "3S6B3-56Z5W-CFBJC-JTTBJ-ZW3BW",
    "game": "Borderlands 4",
@@ -5421,7 +5630,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5433,7 +5643,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5445,7 +5656,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5493,7 +5705,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5552,7 +5765,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5564,7 +5778,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5588,7 +5803,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5648,7 +5864,8 @@
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
     "pcgamer.com",
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
@@ -5730,7 +5947,8 @@
    "expired": false,
    "first_seen": "2026-10-25T12:46+00:00",
    "sources": [
-    "fiercepc.co.uk"
+    "fiercepc.co.uk",
+    "mentalmars.com"
    ]
   },
   {
