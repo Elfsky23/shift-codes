@@ -1,15 +1,15 @@
 {
  "meta": {
-  "generated": "2026-11-26T03:37+00:00",
+  "generated": "2026-11-26T17:01+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 42,
+    "found": 46,
     "error": null
    },
    {
     "url": "https://www.gamesradar.com/games/borderlands/borderlands-4-shift-codes-golden-keys/",
-    "found": 70,
+    "found": 71,
     "error": null
    },
    {
@@ -186,7 +186,8 @@
    "sources": [
     "communauté (mentalmars)",
     "mentalmars.com",
-    "lockercodes.io"
+    "lockercodes.io",
+    "gamesradar.com"
    ]
   },
   {
