@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated": "2026-11-25T19:22+00:00",
+  "generated": "2026-11-26T03:37+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
-    "found": 41,
+    "found": 42,
     "error": null
    },
    {
@@ -69,8 +69,8 @@
    },
    {
     "url": "https://gamespace.com/all-articles/news/borderlands-4-shift-codes-all-active-codes/",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 23,
+    "error": null
    },
    {
     "url": "https://www.altchar.com/game-news/borderlands-4-all-shift-codes-july-2026-aP8mW4B35PQR",
@@ -114,7 +114,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-3-golden-keys/",
-    "found": 86,
+    "found": 87,
     "error": null
    },
    {
@@ -139,7 +139,7 @@
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-2-golden-keys/",
-    "found": 151,
+    "found": 152,
     "error": null
    },
    {
@@ -159,23 +159,36 @@
    },
    {
     "url": "https://mentalmars.com/game-news/bltps-golden-keys/",
-    "found": 157,
+    "found": 158,
     "error": null
    },
    {
     "url": "https://mentalmars.com/game-news/borderlands-golden-keys/",
-    "found": 76,
+    "found": 77,
     "error": null
    },
    {
     "url": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/",
-    "found": 48,
+    "found": 49,
     "error": null
    }
   ],
-  "count": 506
+  "count": 507
  },
  "codes": [
+  {
+   "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+   "game": "Borderlands 4",
+   "reward": "5 Golden Keys",
+   "expires": "Dec 1, 2026",
+   "expired": false,
+   "first_seen": "2026-11-26T03:37+00:00",
+   "sources": [
+    "communauté (mentalmars)",
+    "mentalmars.com",
+    "lockercodes.io"
+   ]
+  },
   {
    "code": "C3KJB-WKTR3-RXJ65-TJ3JB-H6FH9",
    "game": "Borderlands 2",
