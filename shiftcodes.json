@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-11-27T12:39+00:00",
+  "generated": "2026-11-27T23:30+00:00",
   "sites": [
    {
     "url": "https://mentalmars.com/game-news/borderlands-4-shift-codes/",
@@ -44,13 +44,13 @@
    },
    {
     "url": "https://www.sportskeeda.com/mmo/borderlands-4-shift-codes",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 51,
+    "error": null
    },
    {
     "url": "https://deltiasgaming.com/?p=344151",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 24,
+    "error": null
    },
    {
     "url": "https://esports.gg/guides/gaming/all-shift-codes-in-borderlands-4-september-2025",
@@ -89,8 +89,8 @@
    },
    {
     "url": "https://thegamehaus.com/gaming/updated-borderlands-4-shift-codes-2025/2025/09/14/",
-    "found": 0,
-    "error": "HTTP 403"
+    "found": 18,
+    "error": null
    },
    {
     "url": "https://nextbite.io/en/reviews/borderlands-4-shift-codes-update-2026/",
@@ -154,7 +154,7 @@
    },
    {
     "url": "https://powerupgaming.co.uk/2023/11/13/borderlands-2-shift-codes/",
-    "found": 8,
+    "found": 0,
     "error": null
    },
    {
